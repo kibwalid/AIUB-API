@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5189bce7-b81a-4de6-9723-96a4f04f30f8" name="Default Changelist" comment="Added API Server" />
+    <list default="true" id="5189bce7-b81a-4de6-9723-96a4f04f30f8" name="Default Changelist" comment="Added API Server">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1f09JDfPpQuUoOHbP2jJLZSqOWQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -95,7 +101,7 @@
       <updated>1595344068920</updated>
       <workItem from="1595344071990" duration="432000" />
       <workItem from="1595414463798" duration="2744000" />
-      <workItem from="1595421106355" duration="8340000" />
+      <workItem from="1595421106355" duration="10149000" />
     </task>
     <task id="LOCAL-00001" summary="Added AIUB_Scraper Package">
       <created>1595344462557</created>
@@ -130,6 +136,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added AIUB_Scraper Package" />
     <MESSAGE value="Added API Server" />
     <option name="LAST_COMMIT_MESSAGE" value="Added API Server" />
