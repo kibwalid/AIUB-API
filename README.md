@@ -1,6 +1,6 @@
 # AIUB-API
 
-An Unofficial API Server for AIUB (American International University, Bangladesh) Portal and Website. It uses a Python Scraper to get the data from AIUB Database and 
+An Unofficial API Server for AIUB (American International University, Bangladesh) Portal and Website. It uses a Python Scraper to get the data from AIUB Database and creates JSON formated Data for your application. 
 
 ## Installation
 
